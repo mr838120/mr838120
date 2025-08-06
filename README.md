@@ -1,12 +1,10 @@
 # Hello, I'm Mitchell Rose
 <a href="https://www.linkedin.com/in/mitchrose25/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in information technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Motivated entry-level professional seeking a role in cybersecurity to apply a foundational understanding of security principles and proactive defense strategies. I am eager to gain hands-on experience and work toward a CISSP certification to strengthen my expertise and contribute to a secure environment.
 
@@ -49,12 +47,8 @@ Motivated entry-level professional seeking a role in cybersecurity to apply a fo
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 
 ## Projects
 - Detection Lab
