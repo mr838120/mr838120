@@ -10,16 +10,13 @@ Motivated entry-level professional seeking a role in cybersecurity to apply a fo
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python           | <a href="https://github.com/mr838120/Python-Algorithm---File-Updater/tree/main"> Python File Updater</a>|
-| | |
-|          | |
-| ||
-| ||
-| ||
+| Python Scripting | <a href="https://github.com/mr838120/Python-Algorithm---File-Updater/tree/main"> Python File Updater</a>|
+|  Threat Detection & Analysis| [HoneyPi](https://github.com/mr838120/HoneyPi/blob/main/README.md) |
+|      Network Security & Monitoring    | [HoneyPi](https://github.com/mr838120/HoneyPi/blob/main/README.md)|
+
 
 ## Tools
 
@@ -27,6 +24,7 @@ Motivated entry-level professional seeking a role in cybersecurity to apply a fo
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Honeypot-FFA500?&style=for-the-badge&logo=hive&logoColor=white" />
 
 ### Hypervisor
 <div>
@@ -50,3 +48,4 @@ Motivated entry-level professional seeking a role in cybersecurity to apply a fo
 
 ## Projects
 -  <a href="https://github.com/mr838120/Python-Algorithm---File-Updater/tree/main"> Python Algorithm File Updater</a>
+- [HoneyPi](https://github.com/mr838120/HoneyPi/blob/main/README.md)
